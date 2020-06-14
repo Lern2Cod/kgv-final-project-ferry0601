@@ -8,7 +8,9 @@ kgv-final-project-ferry0601 created by GitHub Classroom
   tombol "S" untuk kebawah,
   tombol "A" untuk kekiri,
   tombol "D" untuk kekanan,
-  tombol "Z" untuk putar ke kiri,
-  tombol "X" untuk putar ke kanan,
+  tombol "Z" untuk putar searah jarum jam,
+  tombol "X" untuk putar berlawanan jarum jam,
   tombol "Q" untuk zoom in,
-  tombol "E" untuk zoom out.
+  tombol "E" untuk zoom out,
+  tombol "[" untuk putar atas,
+  tombol "]" untuk putar bawah.
